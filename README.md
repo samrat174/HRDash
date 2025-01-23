@@ -14,7 +14,8 @@ Developed an interactive HR Analytics Dashboard using Tableau to provide actiona
 ## Data Source and Template
 The dashboard uses the following files:
 - [HR Analytics Excel Source File](https://github.com/samrat174/HRDash/blob/main/HR%20Data.xlsx)  
-- [HR Analytics Dashboard Template](https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/tableau/HR_Analytics_Dashboard_Template.twbx)
+- [HR Analytics Dashboard Background Template](https://github.com/samrat174/HRDash/blob/main/HR%20background.pptx)
+- [HR Analytics Dashboard Template](https://github.com/samrat174/HRDash/blob/main/HR%20background.pptx)
 
 Replace the Excel source file with your organization's HR data, ensuring the format aligns with the template.
 
