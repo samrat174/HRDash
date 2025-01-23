@@ -24,3 +24,5 @@ Replace the Excel source file with your organization's HR data, ensuring the for
    ```bash
    git clone https://github.com/samrat174/HRDash.git
 
+## License 
+- [License Button](https://github.com/samrat174/HRDash/blob/main/LICENSE)
