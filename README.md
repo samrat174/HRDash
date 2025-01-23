@@ -9,7 +9,7 @@ Developed an interactive HR Analytics Dashboard using Tableau to provide actiona
 - **Age Bands and Gender Distribution:** Explore employee demographics, categorized by age groups and gender.
 
 ## Demo
-![Dashboard Screenshot](images/dashboard_screenshot.png)  
+![Dashboard Screenshot]([images/dashboard_screenshot.png](https://github.com/samrat174/HRDash/blob/main/HR_ANALYTICS_DASHBOARD%20Screenshot.png))  
 *Screenshot of the Active Employee Count Visualization.*
 
 ## Data Source and Template
