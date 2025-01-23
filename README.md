@@ -22,5 +22,5 @@ Replace the Excel source file with your organization's HR data, ensuring the for
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+   git clone https://github.com/samrat174/HRDash.git
 
