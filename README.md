@@ -9,12 +9,11 @@ Developed an interactive HR Analytics Dashboard using Tableau to provide actiona
 - **Age Bands and Gender Distribution:** Explore employee demographics, categorized by age groups and gender.
 
 ## Demo
-![Dashboard Screenshot]([images/dashboard_screenshot.png](https://github.com/samrat174/HRDash/blob/main/HR_ANALYTICS_DASHBOARD%20Screenshot.png))  
-*Screenshot of the Active Employee Count Visualization.*
+![Dashboard Screenshot](https://github.com/samrat174/HRDash/blob/main/HR_ANALYTICS_DASHBOARD%20Screenshot.png)  
 
 ## Data Source and Template
 The dashboard uses the following files:
-- [HR Analytics Excel Source File](https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/data/HR_Analytics_Source.xlsx)  
+- [HR Analytics Excel Source File](https://github.com/samrat174/HRDash/blob/main/HR%20Data.xlsx)  
 - [HR Analytics Dashboard Template](https://github.com/yourusername/HR-Analytics-Dashboard/blob/main/tableau/HR_Analytics_Dashboard_Template.twbx)
 
 Replace the Excel source file with your organization's HR data, ensuring the format aligns with the template.
